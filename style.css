@@ -60,6 +60,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  margin-left: -5%;
 }
 
 .logo:hover {
