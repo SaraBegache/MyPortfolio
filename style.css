@@ -354,7 +354,9 @@ article {
 article .icon {
   cursor: default;
 }
-
+.introduction {
+  text-align: justify;
+}
 /* PROJECTS SECTION */
 
 #projects {
