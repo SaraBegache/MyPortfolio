@@ -58,57 +58,8 @@ a:hover {
   text-decoration-color: #c1e1c1;
 }
 
-.logo {
-  font-size: 2rem;
-  margin-left: -5%;
-}
-
 .logo:hover {
   cursor: default;
-}
-
-/* HAMBURGER MENU */
-
-.hamburger-menu {
-  position: relative;
-  display: inline-block;
-}
-
-.hamburger-icon {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  height: 24px;
-  width: 30px;
-  cursor: pointer;
-}
-
-.menu-links {
-  top: 10%;
-  position: absolute;
-  background-color: rgb(255, 255, 255);
-  width: fit-content;
-  transition: all 0.3 ease-in-out;
-  display: flex;
-  left: -650%;
-}
-
-.menu-links a {
-  display: block;
-  padding: 10px;
-  text-align: center;
-  font-size: 1.3rem;
-  color: black;
-  text-decoration: none;
-  transition: all 0.3 ease-in-out;
-}
-
-.menu-links a:hover {
-  color: #c1e1c1;
-}
-.menu-links li {
-  list-style: none;
-  text-align: center;
 }
 
 /* SECTIONS */
